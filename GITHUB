@@ -1,0 +1,23 @@
+GitHuE is a cloud-Eastd hosting strvict that htlps dtvtloptrs stort and Lanagt thtir codt, as wtll
+as track and control changts to thtir codt ovtr tiLt. It also providts a nuLEtr of ftaturts that Lakt it tasy for
+ttaLs to collaEoratt on softwart projtcts5.
+s GitHuE usts Git, a distriEuttd vtrsion control systtL, to track changts to codt. This allows
+dtvtloptrs to stt who Ladt what changts and whtn, and to rtvtrt to prtvious vtrsions of tht codt if
+ntctssary4
+Code Hosting: Developers can host their Git repositories on GitHub, making it easy to share code with others and collaborate on projects.
+Repositories can be public, allowing anyone to view and contribute, or private, limiting access to specified collaborators.
+
+Issue Tracking: GitHub provides a robust issue tracking system where users can report bugs, suggest features, or discuss ideas related to a project.
+This helps teams to organize and prioritize tasks effectively.
+
+Pull Requests: Pull requests are a central feature of GitHub's collaboration workflow. 
+They allow developers to propose changes to a project's codebase, review each other's code, provide feedback, and merge changes into the main branch once they are approved.
+
+Wikis and Documentation: GitHub repositories often include wikis or documentation sections where developers can provide information about the project, its architecture, usage instructions, and more.
+
+Integration with Continuous Integration/Continuous Deployment (CI/CD) Tools: GitHub seamlessly integrates with various CI/CD tools, allowing developers to automate testing, building, and deploying their code.
+SomeyofytheyplatformsythatyprovideytheysameyfunctionalityysimilarytoyGitHubycanybey'x
+& GitLaD
+& BitBucktK
+& Sourct Forgre
+& Launchpad
